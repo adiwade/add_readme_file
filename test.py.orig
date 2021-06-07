@@ -1,0 +1,18 @@
+i m first line
+
+
+
+
+
+
+i m second line
+
+
+
+
+<<<<<<< HEAD
+i m writing from master branch
+=======
+i m changing this line
+>>>>>>> test
+i m third line
